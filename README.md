@@ -1,5 +1,84 @@
-# LeetCode Daily Practice 🚀
+# 🚀 MY Daily DSA Practice
 
-I solve 2 LeetCode problems daily with explanation.
+Welcome to my **Daily Data Structures & Algorithms practice journey**.  
+I solve **2 LeetCode problems every day** and upload:
 
-Stay consistent. Stay improving.
+✔ Solution Code  
+✔ Explanation  
+✔ Time & Space Complexity  
+✔ Learnings from the problem  
+
+The goal is to improve **problem-solving skills**, **coding speed**, and build strong fundamentals for **placements & internships**.
+
+---
+
+## 📅 Daily Progress
+
+| Day | Problems Solved | Topics |
+|----|----------------|--------|
+| Day 1 | Two Sum, Binary Search | Arrays, Searching |
+| Day 2 | Valid Parentheses, Reverse String | Stack, Strings |
+| Day 3 | ... | ... |
+
+*(Table will be updated daily)*
+
+---
+
+## 🗂 Repository Structure
+
+MY-Daily-DSA-Practice
+│
+├── Day1
+│ ├── problem1.java
+│ ├── problem2.py
+│ └── README.md (explanation)
+│
+├── Day2
+│ ├── problem1.java
+│ ├── problem2.py
+│ └── README.md
+│
+└── Topics
+├── Arrays
+├── Strings
+├── LinkedList
+├── Stack
+├── Queue
+├── Trees
+├── Graphs
+└── DynamicProgramming
+
+
+---
+
+## 🧠 What I'm Improving
+
+- Data Structures fundamentals  
+- Algorithmic thinking  
+- Code optimization  
+- Writing clean & readable code  
+- Consistency & discipline  
+
+---
+
+## 🏆 Goal
+
+📌 Solve **300+ DSA problems**  
+📌 Master common interview patterns  
+📌 Be placement & internship ready  
+
+---
+
+## 📈 Why This Repository?
+
+This repository shows:
+
+✅ Consistency  
+✅ Structured learning  
+✅ Problem-solving ability  
+✅ Code explanation skills  
+
+---
+
+💡 *"Small daily improvements lead to big results."*
+
