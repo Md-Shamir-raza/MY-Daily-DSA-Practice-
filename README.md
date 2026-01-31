@@ -26,27 +26,32 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 
 ## 🗂 Repository Structure
 
+## 🗂 Repository Structure
+
 MY-Daily-DSA-Practice
 │
-├── Day1
-│ ├── problem1.java
-│ ├── problem2.py
-│ └── README.md (explanation)
+├── 📅 Daily-Practice
+│   ├── Day1
+│   │   ├── two-sum.java
+│   │   ├── binary-search.py
+│   │   └── README.md
+│   │
+│   ├── Day2
+│   │   ├── valid-parentheses.java
+│   │   ├── reverse-string.py
+│   │   └── README.md
+│   │
+│   └── ...
 │
-├── Day2
-│ ├── problem1.java
-│ ├── problem2.py
-│ └── README.md
-│
-└── Topics
-├── Arrays
-├── Strings
-├── LinkedList
-├── Stack
-├── Queue
-├── Trees
-├── Graphs
-└── DynamicProgramming
+└── 🧠 Topics
+    ├── Arrays
+    ├── Strings
+    ├── LinkedList
+    ├── Stack
+    ├── Queue
+    ├── Trees
+    ├── Graphs
+    └── DynamicProgramming
 
 
 ---
