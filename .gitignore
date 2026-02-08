@@ -18,3 +18,21 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Compiled executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Linux compiled binaries without extension
+a.out
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
