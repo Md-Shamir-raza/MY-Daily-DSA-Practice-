@@ -14,11 +14,10 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 
 ## 📅 Daily Progress
 
-| Day | Problems Solved | Topics |
-|----|----------------|--------|
-| Day 1 | Two Sum, Binary Search | Arrays, Searching |
-| Day 2 | Valid Parentheses, Reverse String | Stack, Strings |
-| Day 3 | ... | ... |
+| Day | Problems Solved | Topics | Difficulty |
+|-----|----------------|--------|------------|
+| [Day 1](./Day%201) | Two Sum, Maximum Subarray | Arrays, Hash Map, Kadane's Algorithm | Easy, Medium |
+| [Day 2](./Day%202) | Container With Most Water, 3Sum | Arrays, Two Pointers, Sorting | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -26,33 +25,27 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 
 ## 🗂 Repository Structure
 
-## 🗂 Repository Structure
-
+```
 MY-Daily-DSA-Practice
 │
-├── 📅 Daily-Practice
-│   ├── Day1
-│   │   ├── two-sum.java
-│   │   ├── binary-search.py
+├── 📅 Day 1
+│   ├── Program 1
+│   │   ├── TWOSUM.CPP
 │   │   └── README.md
-│   │
-│   ├── Day2
-│   │   ├── valid-parentheses.java
-│   │   ├── reverse-string.py
-│   │   └── README.md
-│   │
-│   └── ...
+│   └── Program 2
+│       ├── Maximum_Subarray.cpp
+│       └── README.md
 │
-└── 🧠 Topics
-    ├── Arrays
-    ├── Strings
-    ├── LinkedList
-    ├── Stack
-    ├── Queue
-    ├── Trees
-    ├── Graphs
-    └── DynamicProgramming
-
+├── 📅 Day 2
+│   ├── Program 1
+│   │   ├── Container_With_Most_Water.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Three_Sum.cpp
+│       └── README.md
+│
+└── README.md
+```
 
 ---
 
@@ -86,4 +79,3 @@ This repository shows:
 ---
 
 💡 *"Small daily improvements lead to big results."*
-
