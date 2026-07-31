@@ -19,6 +19,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 1](./Day%201) | Two Sum, Maximum Subarray | Arrays, Hash Map, Kadane's Algorithm | Easy, Medium |
 | [Day 2](./Day%202) | Container With Most Water, 3Sum | Arrays, Two Pointers, Sorting | Medium, Medium |
 | [Day 3](./Day%203) | Longest Substring Without Repeating Characters, Sort Colors | Strings, Sliding Window, Dutch National Flag | Medium, Medium |
+| [Day 4](./Day%204) | Longest Palindromic Substring, Product of Array Except Self | Strings, Arrays, Prefix/Suffix | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -51,6 +52,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Sort_Colors.cpp
+│       └── README.md
+│
+├── 📅 Day 4
+│   ├── Program 1
+│   │   ├── Longest_Palindromic_Substring.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Product_of_Array_Except_Self.cpp
 │       └── README.md
 │
 └── README.md
