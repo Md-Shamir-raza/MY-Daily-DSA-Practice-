@@ -20,6 +20,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 2](./Day%202) | Container With Most Water, 3Sum | Arrays, Two Pointers, Sorting | Medium, Medium |
 | [Day 3](./Day%203) | Longest Substring Without Repeating Characters, Sort Colors | Strings, Sliding Window, Dutch National Flag | Medium, Medium |
 | [Day 4](./Day%204) | Longest Palindromic Substring, Product of Array Except Self | Strings, Arrays, Prefix/Suffix | Medium, Medium |
+| [Day 5](./Day%205) | Group Anagrams, Rotate Image | Strings, Hash Map, Matrix | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -60,6 +61,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Product_of_Array_Except_Self.cpp
+│       └── README.md
+│
+├── 📅 Day 5
+│   ├── Program 1
+│   │   ├── Group_Anagrams.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Rotate_Image.cpp
 │       └── README.md
 │
 └── README.md
