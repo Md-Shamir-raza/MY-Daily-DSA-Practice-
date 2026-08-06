@@ -21,6 +21,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 3](./Day%203) | Longest Substring Without Repeating Characters, Sort Colors | Strings, Sliding Window, Dutch National Flag | Medium, Medium |
 | [Day 4](./Day%204) | Longest Palindromic Substring, Product of Array Except Self | Strings, Arrays, Prefix/Suffix | Medium, Medium |
 | [Day 5](./Day%205) | Group Anagrams, Rotate Image | Strings, Hash Map, Matrix | Medium, Medium |
+| [Day 6](./Day%206) | Merge Intervals, Spiral Matrix | Intervals, Sorting, Matrix Traversal | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -69,6 +70,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Rotate_Image.cpp
+│       └── README.md
+│
+├── 📅 Day 6
+│   ├── Program 1
+│   │   ├── Merge_Intervals.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Spiral_Matrix.cpp
 │       └── README.md
 │
 └── README.md
