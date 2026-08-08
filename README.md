@@ -22,6 +22,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 4](./Day%204) | Longest Palindromic Substring, Product of Array Except Self | Strings, Arrays, Prefix/Suffix | Medium, Medium |
 | [Day 5](./Day%205) | Group Anagrams, Rotate Image | Strings, Hash Map, Matrix | Medium, Medium |
 | [Day 6](./Day%206) | Merge Intervals, Spiral Matrix | Intervals, Sorting, Matrix Traversal | Medium, Medium |
+| [Day 7](./Day%207) | Subarray Sum Equals K, Next Permutation | Prefix Sum, Hash Map, Permutations | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -78,6 +79,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Spiral_Matrix.cpp
+│       └── README.md
+│
+├── 📅 Day 7
+│   ├── Program 1
+│   │   ├── Subarray_Sum_Equals_K.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Next_Permutation.cpp
 │       └── README.md
 │
 └── README.md
