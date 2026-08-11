@@ -23,6 +23,8 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 5](./Day%205) | Group Anagrams, Rotate Image | Strings, Hash Map, Matrix | Medium, Medium |
 | [Day 6](./Day%206) | Merge Intervals, Spiral Matrix | Intervals, Sorting, Matrix Traversal | Medium, Medium |
 | [Day 7](./Day%207) | Subarray Sum Equals K, Next Permutation | Prefix Sum, Hash Map, Permutations | Medium, Medium |
+| [Day 8](./Day%208) | Pow(x,n), Search in Rotated Sorted Array | Binary Exponentiation, Binary Search | Medium, Medium |
+| [Day 9](./Day%209) | Find First and Last Position, Jump Game | Binary Search Bounds, Greedy | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -87,6 +89,22 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Next_Permutation.cpp
+│       └── README.md
+│
+├── 📅 Day 8
+│   ├── Program 1
+│   │   ├── Pow_x_n.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Search_in_Rotated_Sorted_Array.cpp
+│       └── README.md
+│
+├── 📅 Day 9
+│   ├── Program 1
+│   │   ├── Find_First_and_Last_Position.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Jump_Game.cpp
 │       └── README.md
 │
 └── README.md
