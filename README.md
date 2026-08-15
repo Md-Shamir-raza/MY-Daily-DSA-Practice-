@@ -25,6 +25,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 7](./Day%207) | Subarray Sum Equals K, Next Permutation | Prefix Sum, Hash Map, Permutations | Medium, Medium |
 | [Day 8](./Day%208) | Pow(x,n), Search in Rotated Sorted Array | Binary Exponentiation, Binary Search | Medium, Medium |
 | [Day 9](./Day%209) | Find First and Last Position, Jump Game | Binary Search Bounds, Greedy | Medium, Medium |
+| [Day 10](./Day%2010) | Add Two Numbers, Remove Nth Node From End of List | Linked List, Two Pointers | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -105,6 +106,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Jump_Game.cpp
+│       └── README.md
+│
+├── 📅 Day 10
+│   ├── Program 1
+│   │   ├── Add_Two_Numbers.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Remove_Nth_Node_From_End_of_List.cpp
 │       └── README.md
 │
 └── README.md
