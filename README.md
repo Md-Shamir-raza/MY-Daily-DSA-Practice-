@@ -27,6 +27,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 9](./Day%209) | Find First and Last Position, Jump Game | Binary Search Bounds, Greedy | Medium, Medium |
 | [Day 10](./Day%2010) | Add Two Numbers, Remove Nth Node From End of List | Linked List, Two Pointers | Medium, Medium |
 | [Day 11](./Day%2011) | Permutations, Combination Sum | Backtracking, Recursion | Medium, Medium |
+| [Day 12](./Day%2012) | Validate Binary Search Tree, Binary Tree Level Order Traversal | Trees, DFS, BFS | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -123,6 +124,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Combination_Sum.cpp
+│       └── README.md
+│
+├── 📅 Day 12
+│   ├── Program 1
+│   │   ├── Validate_Binary_Search_Tree.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Binary_Tree_Level_Order_Traversal.cpp
 │       └── README.md
 │
 └── README.md
