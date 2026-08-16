@@ -26,6 +26,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 8](./Day%208) | Pow(x,n), Search in Rotated Sorted Array | Binary Exponentiation, Binary Search | Medium, Medium |
 | [Day 9](./Day%209) | Find First and Last Position, Jump Game | Binary Search Bounds, Greedy | Medium, Medium |
 | [Day 10](./Day%2010) | Add Two Numbers, Remove Nth Node From End of List | Linked List, Two Pointers | Medium, Medium |
+| [Day 11](./Day%2011) | Permutations, Combination Sum | Backtracking, Recursion | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -114,6 +115,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Remove_Nth_Node_From_End_of_List.cpp
+│       └── README.md
+│
+├── 📅 Day 11
+│   ├── Program 1
+│   │   ├── Permutations.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Combination_Sum.cpp
 │       └── README.md
 │
 └── README.md
