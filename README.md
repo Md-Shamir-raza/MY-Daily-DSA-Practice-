@@ -28,6 +28,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 10](./Day%2010) | Add Two Numbers, Remove Nth Node From End of List | Linked List, Two Pointers | Medium, Medium |
 | [Day 11](./Day%2011) | Permutations, Combination Sum | Backtracking, Recursion | Medium, Medium |
 | [Day 12](./Day%2012) | Validate Binary Search Tree, Binary Tree Level Order Traversal | Trees, DFS, BFS | Medium, Medium |
+| [Day 13](./Day%2013) | Coin Change, Longest Increasing Subsequence | Dynamic Programming, 1D DP | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -132,6 +133,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Binary_Tree_Level_Order_Traversal.cpp
+│       └── README.md
+│
+├── 📅 Day 13
+│   ├── Program 1
+│   │   ├── Coin_Change.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Longest_Increasing_Subsequence.cpp
 │       └── README.md
 │
 └── README.md
