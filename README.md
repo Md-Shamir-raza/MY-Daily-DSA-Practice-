@@ -31,6 +31,8 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 13](./Day%2013) | Coin Change, Longest Increasing Subsequence | Dynamic Programming, 1D DP | Medium, Medium |
 | [Day 14](./Day%2014) | Number of Islands, Course Schedule | Graphs, DFS, Topological Sort | Medium, Medium |
 | [Day 15](./Day%2015) | Kth Largest Element, Top K Frequent Elements | Heaps, Priority Queue, Hash Map | Medium, Medium |
+| [Day 16](./Day%2016) | Longest Repeating Character Replacement, Find All Anagrams | Sliding Window, Strings | Medium, Medium |
+| [Day 17](./Day%2017) | Implement Trie, Daily Temperatures | Tries, Monotonic Stack | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -159,6 +161,22 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Top_K_Frequent_Elements.cpp
+│       └── README.md
+│
+├── 📅 Day 16
+│   ├── Program 1
+│   │   ├── Longest_Repeating_Character_Replacement.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Find_All_Anagrams.cpp
+│       └── README.md
+│
+├── 📅 Day 17
+│   ├── Program 1
+│   │   ├── Implement_Trie.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Daily_Temperatures.cpp
 │       └── README.md
 │
 └── README.md
