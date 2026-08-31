@@ -33,6 +33,8 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 15](./Day%2015) | Kth Largest Element, Top K Frequent Elements | Heaps, Priority Queue, Hash Map | Medium, Medium |
 | [Day 16](./Day%2016) | Longest Repeating Character Replacement, Find All Anagrams | Sliding Window, Strings | Medium, Medium |
 | [Day 17](./Day%2017) | Implement Trie, Daily Temperatures | Tries, Monotonic Stack | Medium, Medium |
+| [Day 18](./Day%2018) | Network Delay Time, Rotting Oranges | Graphs, Dijkstra's, BFS | Medium, Medium |
+| [Day 19](./Day%2019) | Single Number II, Gas Station | Bit Manipulation, Greedy | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -177,6 +179,22 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Daily_Temperatures.cpp
+│       └── README.md
+│
+├── 📅 Day 18
+│   ├── Program 1
+│   │   ├── Network_Delay_Time.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Rotting_Oranges.cpp
+│       └── README.md
+│
+├── 📅 Day 19
+│   ├── Program 1
+│   │   ├── Single_Number_II.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Gas_Station.cpp
 │       └── README.md
 │
 └── README.md
