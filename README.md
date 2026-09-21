@@ -35,6 +35,9 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 17](./Day%2017) | Implement Trie, Daily Temperatures | Tries, Monotonic Stack | Medium, Medium |
 | [Day 18](./Day%2018) | Network Delay Time, Rotting Oranges | Graphs, Dijkstra's, BFS | Medium, Medium |
 | [Day 19](./Day%2019) | Single Number II, Gas Station | Bit Manipulation, Greedy | Medium, Medium |
+| [Day 20](./Day%2020) | Maximum Product Subarray, Find Minimum in Rotated Sorted Array | Dynamic Programming, Binary Search | Medium, Medium |
+| [Day 21](./Day%2021) | Valid Parentheses, Min Stack | Stack, Stack | Easy, Medium |
+| [Day 22](./Day%2022) | Invert Binary Tree, Maximum Depth of Binary Tree | Trees, DFS | Easy, Easy |
 
 *(Table will be updated daily)*
 
@@ -195,6 +198,30 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Gas_Station.cpp
+│       └── README.md
+│
+├── 📅 Day 20
+│   ├── Program 1
+│   │   ├── Maximum_Product_Subarray.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Find_Minimum_in_Rotated_Sorted_Array.cpp
+│       └── README.md
+│
+├── 📅 Day 21
+│   ├── Program 1
+│   │   ├── Valid_Parentheses.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Min_Stack.cpp
+│       └── README.md
+│
+├── 📅 Day 22
+│   ├── Program 1
+│   │   ├── Invert_Binary_Tree.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Maximum_Depth_of_Binary_Tree.cpp
 │       └── README.md
 │
 └── README.md
