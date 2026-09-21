@@ -38,6 +38,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 20](./Day%2020) | Maximum Product Subarray, Find Minimum in Rotated Sorted Array | Dynamic Programming, Binary Search | Medium, Medium |
 | [Day 21](./Day%2021) | Valid Parentheses, Min Stack | Stack, Stack | Easy, Medium |
 | [Day 22](./Day%2022) | Invert Binary Tree, Maximum Depth of Binary Tree | Trees, DFS | Easy, Easy |
+| [Day 23](./Day%2023) | Reverse Linked List, Linked List Cycle | Linked List, Two Pointers | Easy, Easy |
 
 *(Table will be updated daily)*
 
@@ -222,6 +223,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Maximum_Depth_of_Binary_Tree.cpp
+│       └── README.md
+│
+├── 📅 Day 23
+│   ├── Program 1
+│   │   ├── Reverse_Linked_List.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Linked_List_Cycle.cpp
 │       └── README.md
 │
 └── README.md
