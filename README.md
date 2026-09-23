@@ -39,6 +39,8 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 21](./Day%2021) | Valid Parentheses, Min Stack | Stack, Stack | Easy, Medium |
 | [Day 22](./Day%2022) | Invert Binary Tree, Maximum Depth of Binary Tree | Trees, DFS | Easy, Easy |
 | [Day 23](./Day%2023) | Reverse Linked List, Linked List Cycle | Linked List, Two Pointers | Easy, Easy |
+| [Day 24](./Day%2024) | Merge Two Sorted Lists, Reorder List | Linked List, Two Pointers | Easy, Medium |
+| [Day 25](./Day%2025) | Set Matrix Zeroes, Word Search | Matrix, Backtracking | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -231,6 +233,22 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Linked_List_Cycle.cpp
+│       └── README.md
+│
+├── 📅 Day 24
+│   ├── Program 1
+│   │   ├── Merge_Two_Sorted_Lists.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Reorder_List.cpp
+│       └── README.md
+│
+├── 📅 Day 25
+│   ├── Program 1
+│   │   ├── Set_Matrix_Zeroes.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Word_Search.cpp
 │       └── README.md
 │
 └── README.md
