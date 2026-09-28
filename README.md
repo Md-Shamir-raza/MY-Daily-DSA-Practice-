@@ -44,6 +44,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 26](./Day%2026) | Climbing Stairs, House Robber | Dynamic Programming | Easy, Medium |
 | [Day 27](./Day%2027) | LCA of a BST, Kth Smallest Element in a BST | Trees, BST | Medium, Medium |
 | [Day 28](./Day%2028) | Clone Graph, Longest Consecutive Sequence | Graph, Array/HashSet | Medium, Medium |
+| [Day 29](./Day%2029) | Non-overlapping Intervals, Insert Interval | Intervals, Greedy | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -276,6 +277,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Longest_Consecutive_Sequence.cpp
+│       └── README.md
+│
+├── 📅 Day 29
+│   ├── Program 1
+│   │   ├── Non_overlapping_Intervals.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Insert_Interval.cpp
 │       └── README.md
 │
 └── README.md
