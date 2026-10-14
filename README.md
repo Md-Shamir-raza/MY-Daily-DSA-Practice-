@@ -45,6 +45,9 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 27](./Day%2027) | LCA of a BST, Kth Smallest Element in a BST | Trees, BST | Medium, Medium |
 | [Day 28](./Day%2028) | Clone Graph, Longest Consecutive Sequence | Graph, Array/HashSet | Medium, Medium |
 | [Day 29](./Day%2029) | Non-overlapping Intervals, Insert Interval | Intervals, Greedy | Medium, Medium |
+| [Day 30](./Day%2030) | Minimum Arrows to Burst Balloons, Task Scheduler | Greedy, Scheduling | Medium, Medium |
+| [Day 31](./Day%2031) | Unique Paths, Longest Common Subsequence | 2D DP | Medium, Medium |
+| [Day 32](./Day%2032) | Binary Tree Right Side View, Construct Binary Tree | Trees, BFS, DFS | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -285,6 +288,30 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Insert_Interval.cpp
+│       └── README.md
+│
+├── 📅 Day 30
+│   ├── Program 1
+│   │   ├── Minimum_Arrows.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Task_Scheduler.cpp
+│       └── README.md
+│
+├── 📅 Day 31
+│   ├── Program 1
+│   │   ├── Unique_Paths.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Longest_Common_Subsequence.cpp
+│       └── README.md
+│
+├── 📅 Day 32
+│   ├── Program 1
+│   │   ├── Binary_Tree_Right_Side_View.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Construct_Binary_Tree.cpp
 │       └── README.md
 │
 └── README.md
