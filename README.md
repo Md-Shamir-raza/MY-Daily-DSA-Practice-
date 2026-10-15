@@ -48,6 +48,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 30](./Day%2030) | Minimum Arrows to Burst Balloons, Task Scheduler | Greedy, Scheduling | Medium, Medium |
 | [Day 31](./Day%2031) | Unique Paths, Longest Common Subsequence | 2D DP | Medium, Medium |
 | [Day 32](./Day%2032) | Binary Tree Right Side View, Construct Binary Tree | Trees, BFS, DFS | Medium, Medium |
+| [Day 33](./Day%2033) | Pacific Atlantic Water Flow, Surrounded Regions | Graphs, DFS, BFS | Medium, Medium |
 
 *(Table will be updated daily)*
 
@@ -312,6 +313,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Construct_Binary_Tree.cpp
+│       └── README.md
+│
+├── 📅 Day 33
+│   ├── Program 1
+│   │   ├── Pacific_Atlantic_Water_Flow.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Surrounded_Regions.cpp
 │       └── README.md
 │
 └── README.md
