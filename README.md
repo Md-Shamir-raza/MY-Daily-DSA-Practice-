@@ -50,6 +50,7 @@ The goal is to improve **problem-solving skills**, **coding speed**, and build s
 | [Day 32](./Day%2032) | Binary Tree Right Side View, Construct Binary Tree | Trees, BFS, DFS | Medium, Medium |
 | [Day 33](./Day%2033) | Pacific Atlantic Water Flow, Surrounded Regions | Graphs, DFS, BFS | Medium, Medium |
 | [Day 34](./Day%2034) | Counting Bits, Reverse Bits | Bit Manipulation, DP | Easy, Easy |
+| [Day 35](./Day%2035) | Minimum Window Substring, Valid Anagram | Sliding Window, Hash Map | Hard, Easy |
 
 *(Table will be updated daily)*
 
@@ -330,6 +331,14 @@ MY-Daily-DSA-Practice
 │   │   └── README.md
 │   └── Program 2
 │       ├── Reverse_Bits.cpp
+│       └── README.md
+│
+├── 📅 Day 35
+│   ├── Program 1
+│   │   ├── Minimum_Window_Substring.cpp
+│   │   └── README.md
+│   └── Program 2
+│       ├── Valid_Anagram.cpp
 │       └── README.md
 │
 └── README.md
